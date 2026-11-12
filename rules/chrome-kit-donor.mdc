@@ -1,0 +1,13 @@
+---
+description: Single donor for course chrome CSS/JS
+alwaysApply: false
+globs:
+  - "**/уроки/**"
+  - "**/*-polish/**"
+---
+
+For offline course UI chrome (`course-ui.css`, `course-nav.css`/`js`, `course-video.js`, `course-seen.js`):
+
+- Copy only from `уроки/_course-chrome-kit/` (or the workspace-equivalent kit path).
+- Never copy `_assets` from another finished course and “tweak” it.
+- Build per-course `course-nav.json` from scratch for that course.

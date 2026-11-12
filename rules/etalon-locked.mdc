@@ -1,0 +1,6 @@
+---
+description: Never modify folders named *-эталон (locked course canons)
+alwaysApply: true
+---
+
+Folders matching `*-эталон` are locked canons. Do not scrape into them, polish them, rewrite nav, download video over them, or delete them. Work on a new archive slug or a `*-polish` / `*-option3` copy instead.

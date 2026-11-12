@@ -1,0 +1,12 @@
+---
+description: Offline course pipeline stage order and phrase routing
+alwaysApply: true
+---
+
+When working on offline HTML courses (GetCourse archives, polish, TOC, local video, USB pack):
+
+1. Follow stage order: archive → polish → toc-nav → (optional) local-video → fin-sd.
+2. Read the matching skill under this plugin before acting.
+3. «причеши курс» / «полный апгрейд» = polish then toc-nav; never re-scrape.
+4. Discover chrome kit at `уроки/_course-chrome-kit/` in the course workspace.
+5. Talk to the user in their language; keep answers short.

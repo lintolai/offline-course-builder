@@ -1,0 +1,28 @@
+{
+  "name": "offline-course-builder",
+  "displayName": "Offline Course Builder",
+  "version": "1.0.0",
+  "description": "Agent pipeline to archive GetCourse (and similar) lessons into offline HTML, polish readability and chrome, wire TOC/nav, download local video, and pack USB/SD volumes for viewing without internet.",
+  "author": {
+    "name": "Yana"
+  },
+  "license": "MIT",
+  "keywords": [
+    "getcourse",
+    "offline-courses",
+    "html",
+    "education",
+    "usb",
+    "yt-dlp",
+    "agent-skills"
+  ],
+  "category": "productivity",
+  "tags": [
+    "courses",
+    "offline",
+    "getcourse",
+    "html",
+    "pipeline"
+  ],
+  "logo": "assets/logo.svg"
+}
